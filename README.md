@@ -4,6 +4,14 @@
 java的动态代理机制详解
 https://www.cnblogs.com/xiaoluo501395377/p/3383130.html
 
+![](https://i.imgur.com/L6WIuSZ.png)
+
+![](https://i.imgur.com/RyOE6vM.png)
+
+![](https://i.imgur.com/ZQurV7K.png)
+
+![](https://i.imgur.com/aSsPtPf.png)
+
 <pre> 
 动态技术原理：
 
